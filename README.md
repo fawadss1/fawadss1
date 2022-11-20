@@ -1,10 +1,3 @@
-<!--
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Myself Fawad Ali a Software Engineer with some Python & Backend Skills. I am hard-working person who loves to write clean and scalable code. Using latest tech stack. Always hungry for learning new things and technologies and have good grasp of Computer Science fundamentals such as Operating System, DBMS, Data structures and Algorithms.
 A multi-skilled Software Developer one professional with extraordinary Functional and Technical expertise, Proficient in understanding client’s needs and easily translates them into appropriate technical solutions across industry verticals. Hands-on experience in all activities varying from
@@ -39,8 +32,11 @@ I have well experience with how to lead a team and how to utilize my team to do 
 Here are some ideas to get you started:
 
 - 🔭 I Strongly belive in Hard Work.
-- 🌱 I’m currently learning FullStack Web development
-- 👯 I’m open for freelance projects
+- 🌱 I’m currently Working On FullStack Web development (REST APIs, Django).
+- ⚡ I’m currently working on ERP System To automate business tasks.
+- 📫 I’m looking to collaborate on Django and Python projects.
+- 💬 Ask me about anything on your mind. I may have answers, you know.
+- 👯 I’m open for freelance projects...
 
 
 **Connect with me:**
@@ -49,6 +45,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Fawad Ali | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Fawad Ali | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Fawad Ali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img src="https://komarev.com/ghpvc/?username=fawadss1&style=flat-square&color=blue" alt="Views Counter"/>
 
 [website]: https://fawadss1.github.io/resume
 [instagram]: https://www.instagram.com/fawadss1/
@@ -60,4 +57,7 @@ Here are some ideas to get you started:
 
 **Languages & Tools:**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fawadss1&layout=compact&theme=default" width="420"/>&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawadss1&layout=compact&theme=default" width="410" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fawadss1&layout=compact&show_icons=true&theme=vision-friendly-dark" width="420"/>&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawadss1&layout=compact&theme=vision-friendly-dark" width="410" />
+<br>
+<br>
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=fawadss1&theme=dark&layout=compact&theme=vision-friendly-dark" width="850" />
