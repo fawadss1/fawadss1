@@ -1,33 +1,8 @@
-Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Myself Fawad Ali a Software Engineer with some Python & Backend Skills. I am hard-working person who loves to write clean and scalable code. Using latest tech stack. Always hungry for learning new things and technologies and have good grasp of Computer Science fundamentals such as Operating System, DBMS, Data structures and Algorithms.
+![image](https://bit.ly/3gArSMF)
+<h1 align="center">Hi Folks! 👋, Myself Fawad</h1>
+A passionate Software Engineer with some Python & Backend Skills. I am hard-working person who loves to write clean and scalable code. Using latest tech stack. Always hungry for learning new things and technologies and have good grasp of Computer Science fundamentals such as Operating System, DBMS, Data structures and Algorithms.
 A multi-skilled Software Developer one professional with extraordinary Functional and Technical expertise, Proficient in understanding client’s needs and easily translates them into appropriate technical solutions across industry verticals. Hands-on experience in all activities varying from
 Web & Desktop, Software Applications Redesigning, Configuration & Post Go Support.
-
-<br/>
-
-**Technical Expertise:**
-<br/>
-My experience as a Developer includes working with Django applications by integrating them with different platforms using REST Framework and Other APIs. I do have lots of experience working with Python, Java, and Web Base Technologies and I have also a good command of version control systems, I have also Three years of experience in Python Django application development, I am also good at dealing with APIs technologies as well e.g. DRF, Requests..
-
-<br/>
-
-**Project Management:**
-<br/>
-I have strong knowledge of project management, I know how to analyze the project and how to set team and time period for the project that satisfies customers. I am good at different tools that are using for project management i.e Trello, Slack, Jira, and MeisterTask, etc. I am also good at agile methodology.
-
-<br/>
-
-**Work Ethics:**
-<br/>
-One of my strengths is my strong work ethic. I strongly believe in work integrity and commitment to a deadline and do whatever it takes to deliver. I can perform my tasks and duties with integrity and time consciously.
-
-<br/>
-
-**Leadership & Teamwork:**
-<br/>
-I have well experience with how to lead a team and how to utilize my team to do our best for the organization. Under my supervision, we complete many projects for the company, that increase our company over all revenue and build customer trust due to providing guality projects.
-
-<br/>
 
 Here are some ideas to get you started:
 
@@ -41,10 +16,10 @@ Here are some ideas to get you started:
 
 **Connect with me:**
 
-[<img align="left"  width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Fawad Ali | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Fawad Ali | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Fawad Ali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left"  width="22px" src="https://bit.ly/2DwmpPn" />][website]
+[<img align="left" alt="Fawad Ali | Instagram" width="22px" src="https://bit.ly/3unC7Y1" />][instagram]
+[<img align="left" alt="Fawad Ali | Facebook" width="22px" src="https://bit.ly/3UahuJ5" />][facebook]
+[<img align="left" alt="Fawad Ali | LinkedIn" width="22px" src="https://bit.ly/3F3fzSh" />][linkedin]
 <img src="https://komarev.com/ghpvc/?username=fawadss1&style=flat-square&color=blue" alt="Views Counter"/>
 
 [website]: https://fawadss1.github.io/resume
@@ -53,11 +28,25 @@ Here are some ideas to get you started:
 [linkedin]: https://www.linkedin.com/in/fawadss1/
 <br/>
 <br/>
-<br/>
-
 **Languages & Tools:**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" alt="bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://bit.ly/3VjxNVy" alt="restAPI" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fawadss1&layout=compact&show_icons=true&theme=vision-friendly-dark" width="420"/>&emsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawadss1&layout=compact&theme=vision-friendly-dark" width="410" />
-<br>
-<br>
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=fawadss1&theme=dark&layout=compact&theme=vision-friendly-dark" width="850" />
+<img src="https://github-readme-stats.vercel.app/api?username=fawadss1&layout=compact&show_icons=true&theme=vision-friendly-dark" width="420"/>&emsp;
+<img src="http://github-readme-streak-stats.herokuapp.com?user=fawadss1&theme=dark&layout=compact&theme=vision-friendly-dark" width="420" />
+<br/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawadss1&layout=compact&theme=vision-friendly-dark" width="420" />
