@@ -32,20 +32,22 @@ Here are some ideas to get you started:
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  <img src="https://ih1.redbubble.net/image.2488655049.9084/flat,128x128,075,t.jpg" alt="flask" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_plain_wordmark_logo_icon_146445.png" alt="jquery" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/ajax-81987.svg" alt="ajax" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/2918581?s=280&v=4" alt="bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://bit.ly/3VjxNVy" alt="restAPI" width="40" height="40"/>
+  <img src="https://plugins.miniorange.com/wp-content/uploads/2021/06/REST-API-icon.jpg" alt="restAPI" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=fawadss1&layout=compact&show_icons=true&theme=vision-friendly-dark" width="420"/>&emsp;
+<img src="https://github-readme-stats.vercel.app/api?username=fawadss1&layout=compact&show_icons=true&theme=vision-friendly-dark" width="410"/>&emsp;
 <img src="http://github-readme-streak-stats.herokuapp.com?user=fawadss1&theme=dark&layout=compact&theme=vision-friendly-dark" width="420" />
 <br/>
 <br/>
