@@ -1,4 +1,4 @@
-![image](https://bit.ly/3gArSMF)
+![image](https://raw.githubusercontent.com/fawadss1/fawadss1/main/Github%20Banner.jpg)
 <h1 align="center">Hi Folks! 👋, Myself Fawad</h1>
 A passionate Software Engineer with some Python & Backend Skills. I am hard-working person who loves to write clean and scalable code. Using latest tech stack. Always hungry for learning new things and technologies and have good grasp of Computer Science fundamentals such as Operating System, DBMS, Data structures and Algorithms.
 A multi-skilled Software Developer one professional with extraordinary Functional and Technical expertise, Proficient in understanding client’s needs and easily translates them into appropriate technical solutions across industry verticals. Hands-on experience in all activities varying from
