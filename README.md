@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/fawadss1/fawadss1/main/Github%20Banner.jpg)
+![image](https://github.com/fawadss1/fawadss1/blob/main/Back%20Banner.jpg)
 <h1 align="center">Hi Folks! 👋, Myself Fawad</h1>
 A passionate Software Engineer with some Python & Backend Skills. I am hard-working person who loves to write clean and scalable code. Using latest tech stack. Always hungry for learning new things and technologies and have good grasp of Computer Science fundamentals such as Operating System, DBMS, Data structures and Algorithms.
 A multi-skilled Software Developer one professional with extraordinary Functional and Technical expertise, Proficient in understanding client’s needs and easily translates them into appropriate technical solutions across industry verticals. Hands-on experience in all activities varying from
@@ -45,6 +45,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img src="https://plugins.miniorange.com/wp-content/uploads/2021/06/REST-API-icon.jpg" alt="restAPI" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="postman" width="40" height="40"/>
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=fawadss1&layout=compact&show_icons=true&theme=vision-friendly-dark" width="410"/>&emsp;
@@ -52,3 +53,11 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawadss1&layout=compact&theme=vision-friendly-dark" width="420" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="500" />
+<br>
+<br>
+**Github Activities**
+<div align=center>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=fawadss1&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</div>
+  
