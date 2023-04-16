@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawadss1&layout=compact&theme=vision-friendly-dark" width="420" />
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="500" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="400" />
 <br>
 <br>
 **Github Activities**
