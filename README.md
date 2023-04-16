@@ -49,11 +49,11 @@ Here are some ideas to get you started:
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=fawadss1&layout=compact&show_icons=true&theme=vision-friendly-dark" width="410"/>&emsp;
-<img src="http://github-readme-streak-stats.herokuapp.com?user=fawadss1&theme=dark&layout=compact&theme=vision-friendly-dark" width="410" />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=fawadss1&layout=compact&theme=vision-friendly-dark" width="410" />
 <br/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawadss1&layout=compact&theme=vision-friendly-dark" width="420" />
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawadss1&layout=compact&theme=vision-friendly-dark" width="410" />&emsp;
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula" height="230" width="410" />
 <br>
 <br>
 **Github Activities**
