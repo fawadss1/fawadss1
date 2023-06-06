@@ -54,10 +54,3 @@ Here are some ideas to get you started:
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fawadss1&layout=compact&theme=vision-friendly-dark" width="410" />&emsp;
 <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula" height="230" width="410" />
-<br>
-<br>
-**Github Activities**
-<div align=center>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=fawadss1&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
-  
