@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I Strongly belive in Hard Work.
 - 🌱 I’m currently Working On FullStack Web development (REST APIs, Django), Web Scraper.
-- ⚡ I’m currently working on SAAS System To automate Ecomerce sites products pushing.
+- ⚡ I’m currently working on SAAS System To automate Ecomerce sites products management.
 - 📫 I’m looking to collaborate on Django and Python projects.
 - 💬 Ask me about anything on your mind. I may have answers, you know.
 - 👯 I’m open for freelance projects...
