@@ -7,8 +7,8 @@ Web & Desktop, Software Applications Redesigning, Configuration & Post Go Suppor
 Here are some ideas to get you started:
 
 - 🔭 I Strongly belive in Hard Work.
-- 🌱 I’m currently Working On FullStack Web development (REST APIs, Django).
-- ⚡ I’m currently working on ERP System To automate business tasks.
+- 🌱 I’m currently Working On FullStack Web development (REST APIs, Django), Web Scraper.
+- ⚡ I’m currently working on SAAS System To automate Ecomerce sites products pushing.
 - 📫 I’m looking to collaborate on Django and Python projects.
 - 💬 Ask me about anything on your mind. I may have answers, you know.
 - 👯 I’m open for freelance projects...
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [<img align="left"  width="22px" src="https://bit.ly/2DwmpPn" />][website]
 [<img align="left" alt="Fawad Ali | Instagram" width="22px" src="https://bit.ly/3unC7Y1" />][instagram]
-[<img align="left" alt="Fawad Ali | Facebook" width="22px" src="https://bit.ly/3UahuJ5" />][facebook]
+[<img align="left" alt="Fawad Ali | Facebook" width="22px" src="https://web.facebook.com/fawadss1" />][facebook]
 [<img align="left" alt="Fawad Ali | LinkedIn" width="22px" src="https://bit.ly/3F3fzSh" />][linkedin]
 <img src="https://komarev.com/ghpvc/?username=fawadss1&style=flat-square&color=blue" alt="Views Counter"/>
 
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   <img src="https://ih1.redbubble.net/image.2488655049.9084/flat,128x128,075,t.jpg" alt="flask" width="40" height="40"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgRI1buEg7S46SCVE_a_l9ChkubGb_2O_PdKLaH0tXP3a_y-ba6kvc63Th4x5hBccfKKQ&usqp=CAU" alt="scrapy" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
