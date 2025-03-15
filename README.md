@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [<img align="left"  width="22px" src="https://bit.ly/2DwmpPn" />][website]
 [<img align="left" alt="Fawad Ali | Instagram" width="22px" src="https://bit.ly/3unC7Y1" />][instagram]
-[<img align="left" alt="Fawad Ali | Facebook" width="22px" src="https://web.facebook.com/fawadss1" />][facebook]
+[<img align="left" alt="Fawad Ali | Facebook" width="22px" src="https://bit.ly/3UahuJ5" />][facebook]
 [<img align="left" alt="Fawad Ali | LinkedIn" width="22px" src="https://bit.ly/3F3fzSh" />][linkedin]
 <img src="https://komarev.com/ghpvc/?username=fawadss1&style=flat-square&color=blue" alt="Views Counter"/>
 
